@@ -1,0 +1,8 @@
+{
+  "name": "Anna's first app ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "e1a5570b"
+}
